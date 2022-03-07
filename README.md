@@ -6,10 +6,10 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Luanne
+- Giovani
+- Vinicius
+- Pedro
 
 ## Professor
 
