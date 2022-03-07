@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# VIDAS ANIMAIS
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
