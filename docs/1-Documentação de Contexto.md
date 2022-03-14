@@ -1,6 +1,6 @@
 # Introdução
 
- O Projeto Vidas Animais servirá para conectar pessoas que querem fazer a doação de algum tipo de animal, e pessoas que estejam interessadas em adotar. O projeto terá um site, no qual quem se interessar em publicar a doação de um animal poderá usar para divulgar a adoção e um aplicativo mobile no qual aparecerá todos os animais que estão para adoção, e após selecionar o animal, poderá entrar em contato com a pessoa que está doando atráves das informações registradas na conta. O principal motivo desse projeto é que sempre que usamos as redes sociais, é possível ver muitas pessoas divulgando doações de cachorros e gatos, e muitas vezes são ignoradas. Por isso pensamos em fazer esse projeto para facilitar a vida da pessoa que se interessa em fazer doação. E o público-alvo são pessoas interessadas em doar e adotar animais.
+ O Projeto Vidas Animais servirá para conectar pessoas que querem fazer a doação de algum tipo de animal, e pessoas que estejam interessadas em adotar. O principal motivo desse projeto é que sempre que usamos as redes sociais, é possível ver muitas pessoas divulgando doações de cachorros e gatos, e muitas vezes são ignoradas. Por isso pensamos em fazer esse projeto para facilitar a vida da pessoa que se interessa em fazer doação. E o público-alvo são pessoas interessadas em doar e adotar animais.
 
 ## Problema
 
@@ -12,6 +12,8 @@ O problema é a falta de uma plataforma para as pessoas conseguirem divulgar sua
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+
+O projeto terá um site, no qual quem se interessar em publicar a doação de um animal poderá usar para divulgar a adoção e um aplicativo mobile no qual aparecerá todos os animais que estão para adoção, e após selecionar o animal, poderá entrar em contato com a pessoa que está doando atráves das informações registradas na conta.
 
  Os principais objetivos são facilitar a vida das pessoas interessadas em doar ou adotar animais e também tentar ajudar os canis a conseguirem doar os animais que estão lá mais facilmente. 
  
