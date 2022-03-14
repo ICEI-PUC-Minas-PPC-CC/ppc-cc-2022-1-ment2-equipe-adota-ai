@@ -1,19 +1,19 @@
 # VIDAS ANIMAIS
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: MENTORING II - SOCIEDADE DIGITAL`
+`2022 - Semestre 1`
 
 ## Integrantes
 
-- Luanne
-- Giovani
-- Vinicius
-- Pedro
+- Giovani Antônio Petri Vieira (35)98800-3040
+- Luanne Zati de Lima (35)99105-5339
+- Vinicius Machioni (35)99810-4311
+- Pedro Henrique Antonacci (35)99196-9298
 
 ## Professor
 
-- Mestre Yoda
+- Will Ricardo dos Santos Machado
 
 # Documentação
 
