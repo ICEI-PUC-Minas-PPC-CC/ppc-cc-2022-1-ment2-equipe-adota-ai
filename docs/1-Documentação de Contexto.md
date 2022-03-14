@@ -4,7 +4,7 @@
 
 ## Problema
 
- Esse sistema será utilizado principalmente por pessoas interessadas em doar animais, porém também poderá ser utilizado por canis para divulgar alguns animais que estão para a adoção.
+O problema é a falta de uma plataforma para as pessoas conseguirem divulgar suas doações e sempre serem ignoradas. Por isso esse sistema irá ajudar as pessoas a encontrar de uma maneira mais simples alguém interessado em adotar os animais.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -22,14 +22,15 @@
 
 Nossa motivação é principalmente diminuir a quantidade de animais abandonados, pois geralmente quando as pessoas não conseguem doar, elas jogam eles para as ruas, e também melhorar nosso conhecimento em certas tecnologias.
 
+ Esse sistema será utilizado principalmente por pessoas interessadas em doar animais, porém também poderá ser utilizado por canis para divulgar alguns animais que estão para a adoção.
+
+
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
 O público-alvo não tem nenhum perfil específico, pois qualquer pessoa interessada em doar ou adotar animais poderá entrar em nossa plataforma, e publicar sobre a doação ou entrar em contato com quem está doando. A pessoa precisará apenas de internet e um celular/computador para poder usar nosso sistema.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
