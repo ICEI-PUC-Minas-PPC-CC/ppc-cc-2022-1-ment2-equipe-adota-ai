@@ -4,7 +4,7 @@
 
 ## Problema
 
-O problema é a falta de uma plataforma para as pessoas conseguirem divulgar suas doações e sempre serem ignoradas. Por isso esse sistema irá ajudar as pessoas a encontrar de uma maneira mais simples alguém interessado em adotar os animais.
+O problema é a falta de uma plataforma para as pessoas conseguirem divulgar suas doações ou vontade de adoção, por isso dificultando muito quem possui esse interesse. Por isso esse sistema irá ajudar as pessoas a encontrar de uma maneira mais simples alguém interessado em adotar os animais.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
