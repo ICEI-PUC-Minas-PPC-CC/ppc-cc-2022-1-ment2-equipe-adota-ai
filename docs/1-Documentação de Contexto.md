@@ -8,11 +8,11 @@ Atualmente não existe uma plataforma que seja capaz de contribuir e centralizar
 
 ## Objetivos
 
-1 - Facilitar Adoção de animais resgatados.
-2 - Contribuir para uma melhor gestão das ONG's e Projetos.
-3 - Possibilitar aos usuários obter informações sobre as ONG's e Projetos na intenção de realizar doações (Medicamentos, Rações, Custos...)
-4 - Criar um Feed capaz de contribuir com relatos de animais que estão desaparecidos e permitir aos usuários informarem se avistaram algum possível animal perdido.
-5 - Criar um plano de Monetização para o Projeto.
+<p> 1 - Facilitar Adoção de animais resgatados.</p>
+<p> 2 - Contribuir para uma melhor gestão das ONG's e Projetos.</p>
+<p> 3 - Possibilitar aos usuários obter informações sobre as ONG's e Projetos na intenção de realizar doações (Medicamentos, Rações, Custos...)</p>
+<p> 4 - Criar um Feed capaz de contribuir com relatos de animais que estão desaparecidos e permitir aos usuários informarem se avistaram algum possível animal perdido.</p>
+<p> 5 - Criar um plano de Monetização para o Projeto.</p>
 
 ## Justificativa
 
