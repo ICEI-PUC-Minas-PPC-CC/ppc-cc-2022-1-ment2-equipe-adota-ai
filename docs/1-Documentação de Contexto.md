@@ -1,5 +1,7 @@
 # Introdução
 
+Atualmente o número de animais abandonados e em situação de rua vem só aumentando, isso se deve ao fato de a condição financeira da população brasileira estar cada vez mais baixo e com isto seus respectivos animais domésticos serem afetados. Vale ressaltar que durante a pandemia o número de casos só aumentou. Segundo o Jusbrasil existe uma estimativa de 10 milhões de gatos e 20 milhões de cães CONTINUAÇÃO EM BREVE
+
 O Projeto Vidas Animais tem como objetivo possibilitar e facilitar a conexão de ONG's e Projetos de Causa Animal com pessoas interessadas em adotar ou ajudar, seja através de adoções responsáveis, doações ou até mesmo informando possíveis animais localizados ou avistados pela cidade.
 
 ## Problema
