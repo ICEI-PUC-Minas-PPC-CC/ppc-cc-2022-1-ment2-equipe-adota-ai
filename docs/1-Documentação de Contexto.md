@@ -8,7 +8,7 @@ Fonte: https://anda.jusbrasil.com.br/noticias/100681698/brasil-tem-30-milhoes-de
 
 ## Problema
 
-Atualmente o problema não se resume apenas no abandono e perca dos animais domésticos, mas também em problemas decorrentes como a falta de uma plataforma específica para tal feito que seja capaz de contribuir e centralizar todas as ações relacionadas ao projeto em um só local. Geralmente, a primeira reação do usuário é usar plataformas paralelas, como as redes sociais, para divulgar e pedir ajuda de outras pessoas da sua rede de amigos, mas o resultado disso nem sempre vem como o esperado e nem sempre o problema é resolvido. Deste modo, a dificuldade do usuário em chegar no seu principal proósito aumenta e se reduz ainda mais as chances de possíveis futuras adoções, contribuições ou relatos, ou seja, um caminho sem sucesso e objetivos inalcançáveis.
+Atualmente o problema não se resume apenas no abandono e perca dos animais domésticos, mas também em problemas decorrentes como a falta de uma plataforma específica para tal feito, que seja capaz de contribuir e centralizar todas as ações relacionadas ao projeto em um só local. Geralmente, a primeira reação do usuário é usar plataformas paralelas, como as redes sociais, para divulgar e pedir ajuda de outras pessoas da sua rede de amigos, mas o resultado disso nem sempre vem como o esperado e nem sempre o problema é resolvido. Deste modo, a dificuldade do usuário em chegar no seu principal proósito aumenta e se reduz ainda mais as chances de possíveis futuras adoções, contribuições ou relatos, ou seja, um caminho sem sucesso e objetivos inalcançáveis.
 
 ## Objetivos
 
