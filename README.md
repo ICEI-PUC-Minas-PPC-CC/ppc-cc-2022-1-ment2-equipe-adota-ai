@@ -1,4 +1,4 @@
-# VIDAS ANIMAIS
+# ADOTA AÍ
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: MENTORING II - SOCIEDADE DIGITAL`
