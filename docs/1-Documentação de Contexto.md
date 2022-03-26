@@ -4,6 +4,8 @@ Atualmente o número de animais abandonados e em situação de rua vem só aumen
 
 Nós do Adota Aí, temos como objetivo possibilitar e facilitar a conexão de ONG's e Projetos de Causa Animal com pessoas interessadas em adotar ou ajudar, seja através de adoções responsáveis, doações ou até mesmo informando possíveis animais localizados ou avistados pela cidade. Tendo em vista a quantidade de animais abandonados atualmente, acreditamos que o Adota aí poderá comtribuir para reverter esse cenário.
 
+Fonte: https://anda.jusbrasil.com.br/noticias/100681698/brasil-tem-30-milhoes-de-animais-abandonados
+
 ## Problema
 
 Atualmente não existe uma plataforma que seja capaz de contribuir e centralizar todas as ações relacionadas ao projeto em um só local, dificultando o contato e reduzindo as possibilidades de uma futura adoção, contribuição ou relato.
