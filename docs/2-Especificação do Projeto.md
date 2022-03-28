@@ -32,8 +32,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-001| Criar banco de dados para identificação e login | ALTA |
 |RF-002| Permitir que a instituição/pessoa cadastre animais para adoção | ALTA | 
 |RF-003| Permitir que o usuário consiga visualizar e adotar animal | ALTA |
-|RF-004| Permitir que a instituição/pessoa informe uma campanha para arrecadar fundos | MÉDIA |
-|RF-005| Permitir que todos os usuários possam relatar animais avistados e perdidos| MÉDIA |
+|RF-004| Permitir que quem cadastrou o animal possa excluir o registro do mesmo após ele ser adotado. | MÉDIA |
+|RF-005| Permitir que o usuário possa fazer o logoff. | MÉDIA |
+|RF-006| Permitir que o usuário possa entrar em contato com a pessoa que está doando o animal | ALTA |
 
 
 ### Requisitos não Funcionais
