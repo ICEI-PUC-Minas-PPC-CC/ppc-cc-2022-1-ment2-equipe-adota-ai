@@ -8,6 +8,57 @@
 
 888
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+777
+A metodologia é a forma que esta organizada o time.
+Relação de Ambientes de Trabalho
+Tabela com as plataformas de usadas para o desenvolvimento.
+
+Ambiente
+Plataforma
+Link de Acesso
+Repositório de código fonte
+GitHub
+https://github.com/rommelcarneiro/tiaw-template
+Documentos do projeto
+GitHub
+https://docs.google.com/folder/d/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24 
+Projeto de Interface e  Wireframes
+Figma
+https://marvelapp.com/4hd6091  
+Gerenciamento do Projeto
+Trello
+https://trello.com/b/LupglzUz/tiaw-template
+
+
+Gerenciamento do Projeto
+Scrum como base para definição do processo de desenvolvimento.
+
+A equipe está organizada da seguinte maneira:
+Scrum Master: Luanne Zati de Lima
+Product Owner: Vinicius Machioni
+Equipe de Back End
+ Pedro Antonacci
+ Giovani Vieira
+Equipe de Front End
+ Luanne Zati de Lima
+  Vinicius Machioni
+
+Distribução das tarefas:
+
+Recursos: 
+ Backlog: 
+ To Do:
+ Doing: 
+Test: 
+Done: 
+Locked: 
+
+
+
+
+
+777
+
 888
 
 
