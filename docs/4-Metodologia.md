@@ -3,7 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-
+A metodologia é a forma que esta organizada o time, ferramentas usadas para organização das tarefas e para criação e edição do projeto.
 
 
 
