@@ -8,6 +8,7 @@ A metodologia é a forma que esta organizada o time, ferramentas usadas para org
 |a  |   b   |         c          |
 |--------------------|-----------------------------------------|-------------------------------------------|
 | 3  |               |                       |
+| 3  |               |                       |
 
 
 
@@ -50,8 +51,9 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-|Scrum Master	  |   Product Owner    |         Equipe de Back End         |
+|Scrum Master	  |   Product Owner    |         Equipe de Back End   |  d      |
 |--------------------|-----------------------------------------|-------------------------------------------|
+| 3  |               |                       |
 | 3  |               |                       |
 
 | Scrum Master	     | Product Owner     | Equipe de Back End | Equipe de Front End |
