@@ -50,6 +50,10 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
+|a  |   b   |         c          |
+|--------------------|-----------------------------------------|-------------------------------------------|
+| 3  |               |                       |
+
 | Scrum Master	     | Product Owner     | Equipe de Back End | Equipe de Front End |
 | Luanne Zati de Lima| Vinicius Machioni | Pedro Antonacci    | Luanne Zati de Lima |
 |a                   |   b               | Giovani Vieira     | Vinicius Machioni   |
