@@ -50,7 +50,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-|a  |   b   |         c          |
+|Scrum Master	  |   Product Owner    |         Equipe de Back End         | Equipe de Back End         |
 |--------------------|-----------------------------------------|-------------------------------------------|
 | 3  |               |                       |
 
