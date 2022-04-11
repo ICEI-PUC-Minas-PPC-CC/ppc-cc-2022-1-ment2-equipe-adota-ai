@@ -6,10 +6,6 @@
 A metodologia é a forma que esta organizada o time, ferramentas usadas para organização das tarefas e para criação e edição do projeto.
 
 
-| 1 | 2 |
-
-
-
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
@@ -72,6 +68,12 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
+
+
+|   Esquerda   |  Centralizado  |    Direita    |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 - Editor de código.
 - Ferramentas de comunicação
