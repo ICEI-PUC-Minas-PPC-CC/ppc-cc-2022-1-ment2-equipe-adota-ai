@@ -74,6 +74,8 @@ As ferramentas empregadas no projeto são:
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
 
 - Editor de código.
 - Ferramentas de comunicação
