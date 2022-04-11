@@ -5,17 +5,6 @@
 
 A metodologia é a forma que esta organizada o time, ferramentas usadas para organização das tarefas e para criação e edição do projeto.
 
-|a  |   b   |         c          |
-|--------------------|-----------------------------------------|-------------------------------------------|
-| 3  |               |                       |
-| 3  |               |                       |
-
-
-
-
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
-
 
 ## Controle de Versão
 
@@ -53,10 +42,10 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 |Scrum Master	  |   Product Owner    |         Equipe de Back End     |
 |--------------------|-----------------------------------------|-------------------------------------------|
-| Scrum Master  |               |                       |
-| Product Owner  |               |                       |
-| Equipe de Back End  |               |                       |
-| Equipe de Front End   |               |                       |
+| Scrum Master  |    Luanne Zati de Lima      |                       |
+| Product Owner  |   Vinicius Machioni            |                       |
+| Equipe de Back End  |   Pedro Antonacci            |  Giovani Vieira                       |
+| Equipe de Front End   |     Luanne Zati de Lima          |       Vinicius Machioni                 |
 
 | Scrum Master	     | Product Owner     | Equipe de Back End | Equipe de Front End |
 | Luanne Zati de Lima| Vinicius Machioni | Pedro Antonacci    | Luanne Zati de Lima |
