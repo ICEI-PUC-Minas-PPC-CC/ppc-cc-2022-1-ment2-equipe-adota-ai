@@ -53,8 +53,10 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 |Scrum Master	  |   Product Owner    |         Equipe de Back End     |
 |--------------------|-----------------------------------------|-------------------------------------------|
-| 3  |               |                       |
-| 3  |               |                       |
+| Scrum Master  |               |                       |
+| Product Owner  |               |                       |
+| Equipe de Back End  |               |                       |
+| Equipe de Front End   |               |                       |
 
 | Scrum Master	     | Product Owner     | Equipe de Back End | Equipe de Front End |
 | Luanne Zati de Lima| Vinicius Machioni | Pedro Antonacci    | Luanne Zati de Lima |
