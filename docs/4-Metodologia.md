@@ -70,36 +70,12 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 As ferramentas empregadas no projeto são:
 
 
-|   Esquerda   |  Centralizado  |    Direita    |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-
-
-|   Ambiente   |  Plataforma  |    Link de Acesso    |
-| :---         |     :---:      |          ---: |
-| Repositório de código fonte    | GitHub     | git status    |
-| Gerenciamento do Projeto     | Trello       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-
-|   Ambiente   |  Plataforma  |    Link de Acesso    |
-| :---         |     :---:      |          ---: |
-| Repositório de código fonte    | GitHub     | git status    |
-| Gerenciamento do Projeto     | Trello       | git diff      |
-| Figma     | Editor gráfico de vetor e prototipagem de projetos de design       | git diff      |
-| WordPress     |  Sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL.      | git diff      |
-
-
-
 |   Ambiente   |  Plataforma  |    Link de Acesso    |
 | :---         |     :---:      |          ---: |
 | Repositório de código fonte    | GitHub     | git status    |
 | Gerenciamento do Projeto     | Trello       | git diff      |
 | Editor gráfico de vetor e prototipagem de projetos de design     | Figma         | git diff      |
-| Sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL.     |  WordPress      | git diff      |
+| Sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL. |  WordPress | https://www.wordpress.com/      |
 
 
 
