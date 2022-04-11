@@ -94,6 +94,22 @@ As ferramentas empregadas no projeto são:
 
 
 
+|   Ambiente   |  Plataforma  |    Link de Acesso    |
+| :---         |     :---:      |          ---: |
+| Repositório de código fonte    | GitHub     | git status    |
+| Gerenciamento do Projeto     | Trello       | git diff      |
+| Editor gráfico de vetor e prototipagem de projetos de design     | Figma         | git diff      |
+| Sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL.     |  WordPress      | git diff      |
+
+
+
+
+
+
+
+
+
+
 
 
 
