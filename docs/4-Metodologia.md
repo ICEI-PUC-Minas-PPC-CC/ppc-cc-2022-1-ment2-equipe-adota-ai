@@ -6,8 +6,7 @@
 A metodologia é a forma que esta organizada o time, ferramentas usadas para organização das tarefas e para criação e edição do projeto.
 
 
-
-| Primeiro cabeçalho  |  Segundo cabeçalho  |
+| 1 | 2 |
 
 
 
@@ -45,7 +44,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-|Scrum Master	  |   Product Owner    |         Equipe de Back End     |
+|Divisão	  |   Product Owner    |         Equipe de Back End     |
 |--------------------|-----------------------------------------|-------------------------------------------|
 | Scrum Master  |    Luanne Zati de Lima      |                       |
 | Product Owner  |   Vinicius Machioni            |                       |
@@ -53,7 +52,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 | Equipe de Front End   |     Luanne Zati de Lima          |       Vinicius Machioni                 |
 
 
-Apresente a divisão de papéis entre os membros do grupo.
+
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
