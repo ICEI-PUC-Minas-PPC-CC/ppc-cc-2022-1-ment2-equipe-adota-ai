@@ -5,7 +5,8 @@
 
 A metodologia é a forma que esta organizada o time, ferramentas usadas para organização das tarefas e para criação e edição do projeto.
 
-| Scrum Master	     | Product Owner     | Equipe de Back End | Equipe de Front End  |
+|Scrum Master	  |   Product Owner    |         Equipe de Back End     |
+
 
 ## Controle de Versão
 
@@ -48,9 +49,6 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 | Equipe de Back End  |   Pedro Antonacci            |  Giovani Vieira                       |
 | Equipe de Front End   |     Luanne Zati de Lima          |       Vinicius Machioni                 |
 
-| Scrum Master	     | Product Owner     | Equipe de Back End | Equipe de Front End  |
-| Luanne Zati de Lima| Vinicius Machioni | Pedro Antonacci    | Luanne Zati de Lima |
-|a                   |   b               | Giovani Vieira     | Vinicius Machioni   |
 
 Apresente a divisão de papéis entre os membros do grupo.
 
