@@ -40,7 +40,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-|Divisão	  |   Product Owner    |         Equipe de Back End     |
+|Divisão	  |   Integrante 1    |         Integrante 2     |
 |--------------------|-----------------------------------------|-------------------------------------------|
 | Scrum Master  |    Luanne Zati de Lima      |                       |
 | Product Owner  |   Vinicius Machioni            |                       |
@@ -72,9 +72,9 @@ As ferramentas empregadas no projeto são:
 
 |   Ambiente   |  Plataforma  |    Link de Acesso    |
 | :---         |     :---:      |          ---: |
-| Repositório de código fonte    | GitHub     | git status    |
-| Gerenciamento do Projeto     | Trello       | git diff      |
-| Editor gráfico de vetor e prototipagem de projetos de design     | Figma         | git diff      |
+| Plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.    | GitHub     | https://github.com    |
+| Gerenciamento do Projeto     | Trello       | https://www.trello.com/trello/official      |
+| Editor gráfico de vetor e prototipagem de projetos de design     | Figma         | https://www.figma.com      |
 | Sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL. |  WordPress | https://www.wordpress.com/      |
 
 
