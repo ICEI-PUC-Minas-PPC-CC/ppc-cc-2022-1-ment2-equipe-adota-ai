@@ -7,7 +7,7 @@ A metodologia é a forma que esta organizada o time, ferramentas usadas para org
 
 
 
-| Primeiro cabeçalho  |  Segundo cabeçalho  | bdfuernf |
+| Primeiro cabeçalho  |  Segundo cabeçalho  |
 
 
 
