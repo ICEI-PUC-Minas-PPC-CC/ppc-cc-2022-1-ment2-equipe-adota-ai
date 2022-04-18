@@ -31,7 +31,7 @@ etiquetas:
 ### Divisão de Papéis
 
 |Divisão	  |   Integrante 1    |         Integrante 2     |    srrrrr   |
-|--------------------|-----------------------------------------|-------------------------------------------|    srrrrr   |
+|--------------------|-----------------------------------------|-------------------------------------------|-------------|
 | Scrum Master  |    Luanne Zati de Lima      |                       |    srrrrr   |
 | Product Owner  |   Vinicius Machioni            |                       |    srrrrr   |
 | Equipe de Back End  |   Pedro Antonacci            |  Giovani Vieira                       |    srrrrr   |
