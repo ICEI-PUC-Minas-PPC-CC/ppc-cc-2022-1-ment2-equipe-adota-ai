@@ -41,7 +41,7 @@ etiquetas:
 | Scrum Master	  |   Product Owner    |         Equipe de Back End     |    Equipe de Front End    |
 |--------------------|-----------------------------------------|-------------------------------------------|-------------|
 | Luanne Zati de Lima  |    Vinicius Machioni     |           Pedro Antonacci             |    Luanne Zati de Lima   |
-| 8Product Owner  |   8Vinicius Machioni            |         Giovani Vieira              |    Vinicius Machioni   |
+| x  |   x            |         Giovani Vieira              |    Vinicius Machioni   |
 
 
 
