@@ -40,7 +40,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-|Divisão	  |   Integrante 1    |         Integrante 2     |         saaaaaaaa 
+|Divisão	  |   Integrante 1    |         Integrante 2     |         saaaaaaaa    |
 |--------------------|-----------------------------------------|-------------------------------------------|
 | Scrum Master  |    Luanne Zati de Lima      |                       |
 | Product Owner  |   Vinicius Machioni            |                       |
