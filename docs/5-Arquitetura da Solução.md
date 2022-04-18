@@ -17,22 +17,15 @@ Os componentes que fazem parte da solução são apresentados na Figura XX.
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
-  - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+  - **Páginas Web** - WordPress.
    
- - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
-
-> **Links Úteis**:
->
-> - [Whimsical](https://whimsical.com/)
+ - **Hospedagem** - WordPress. 
 
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+O projeto conta com Sistema de Gerenciamento de Conteúdo WordPress para a criação de cadastros, login da conta cadastrada, divulgação de animais para adoção e facilitação de contato entre quem doa e quem adota um animal.
 
 
 ## Hospedagem
-
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+A hospedagem e o lançamento da plataforma foram feitos pelo WordPress
