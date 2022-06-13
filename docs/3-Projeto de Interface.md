@@ -15,5 +15,5 @@ Link para o projeto no Figma para testar o UserFlow: https://www.figma.com/file/
 
 ![UserFlow](img/Adota_Ai_Prototipo.png)
 
-Protótipo finalizado do projeto "Adota Aí".
+Protótipo finalizado do projeto "Adota Aí"!
  
