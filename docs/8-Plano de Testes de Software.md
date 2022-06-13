@@ -1,19 +1,19 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+Caso de teste 1: cadastro usuário;
+Requisitos associados: O site deve permitir que o usuário crie um cadastro pessoal para postar informações sobre animais que o usuário queira doar e navegar no feed de animais para adoção;
+Objetivo do teste: verificar se o cadastro está guardando as informações corretas do usuário;
+Passos: 1- Acessar a pagina principal do site
+        2- Clicar em "Não tenho cadastro"
+        3- Entrar na página de criar cadastro
+        4- Preencher com os dados 
+        5- Clicar em "cadastrar"
+Critérios de êxito: O site deve ser redirecionado para a página principal para o usuário fazer login. 
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
-
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
-
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+Caso de teste 2: login usuário;
+Requisitos associados: O site deve permitir que o usuário faça o login com seu e-mail e senha já cadastrados;
+Objetivo do teste: verificar se login está correto, não apresenta erros e entra na conta do usuário;
+Passos: 1- Acessar a pagina principal do site
+        2- Preencher e-mail e senha
+        3- Clicar em "Entrar"
+Critérios de êxito: O site deve ser redirecionado para a página de listagem dos animais, sem apresentar erros ou falhas e entrar na conta pessoal do usuário.
