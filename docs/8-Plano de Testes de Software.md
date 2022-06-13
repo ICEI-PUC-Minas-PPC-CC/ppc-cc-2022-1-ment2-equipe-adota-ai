@@ -1,7 +1,7 @@
 # Plano de Testes de Software
 
 Caso de teste 1: cadastro usuário;
-Requisitos associados: O site deve permitir que o usuário crie um cadastro pessoal para postar informações sobre animais que o usuário queira doar e navegar no feed de animais para adoção;
+Requisitos associados: O site deve permitir que o usuário crie um cadastro pessoal para postar informações sobre animais que o usuário queira doar e navegar no feed de animais para adoção; <br/>
 Objetivo do teste: verificar se o cadastro está guardando as informações corretas do usuário;
 Passos: 1- Acessar a pagina principal do site
         2- Clicar em "Não tenho cadastro"
