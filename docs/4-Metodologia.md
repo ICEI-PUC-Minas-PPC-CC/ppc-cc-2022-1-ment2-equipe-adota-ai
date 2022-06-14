@@ -46,10 +46,10 @@ As ferramentas empregadas no projeto são:
 
 |   Ambiente   |  Plataforma  |    Link de Acesso    |
 | :---         |     :---:      |          ---: |
-| Plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.    | GitHub     | https://github.com    |
-| Gerenciamento do Projeto     | Trello       | https://www.trello.com/trello/official      |
-| Editor gráfico de vetor e prototipagem de projetos de design     | Figma         | https://www.figma.com      |
-| Sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL. |  WordPress | https://www.wordpress.com/      |
+| Plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.    | GitHub     | https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2022-1-ment2-equipe-adota-ai    |
+| Gerenciamento do Projeto     | Trello       | https://trello.com/b/kELKot9K/site |
+| Editor gráfico de vetor e prototipagem de projetos de design     | Figma         | https://www.figma.com/file/YCEORaiQFXBWGCHtknSV3F/Adota-Ai?node-id=302%3A5  |
+| Sistema livre e aberto de gestão de conteúdo para internet. |  WordPress | http://pedro.prado.adm.br/wp-admin  |
 
 
 
